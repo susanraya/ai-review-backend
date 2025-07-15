@@ -1,1 +1,1 @@
-# ai-reveiw-backend
+# ai-review-backend
